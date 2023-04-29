@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.active {
+  color: purple;
+  font-size: 18pt;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
